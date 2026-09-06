@@ -1,8 +1,6 @@
 {
     "latest_version": "1.0.0",
-    "download_url": "https://gamejolt.com/games/Zombie-T-DEMO/1086211"
-}
-{
+    "download_url": "https://gamejolt.com/games/Zombie-T-DEMO/1086211",
     "dust_event": {
         "enabled": true,
         "end_date": "2026-10-01T00:00:00"
